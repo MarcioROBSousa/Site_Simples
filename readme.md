@@ -1,7 +1,8 @@
-# 🌐 Meu Primeiro Site com HTML, CSS e um toque de JavaScript!
+# 🌐 Site com HTML, CSS!!
 
-![Banner](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif width+"300")
-
+<p align="center">
+  ![Banner](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+</p>
 > Criado com dedicação enquanto aprendo com o professor Elias. 👨‍🏫  
 > Um projeto simples, mas feito com muito orgulho! 🚀
 
@@ -13,7 +14,6 @@ Esse site foi feito para colocar em prática os meus conhecimentos iniciais de:
 
 - ✅ **HTML5** – estrutura da página
 - ✅ **CSS3** – estilização e layout
-- ✅ (✨ Em breve) JavaScript – interatividade
 
 📚 Aqui você encontra explicações básicas sobre o que é HTML e CSS, tudo dentro de uma página limpa, organizada e com cores amigáveis.
 
