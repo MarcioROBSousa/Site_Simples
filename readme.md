@@ -1,8 +1,5 @@
 # 🌐 Site com HTML, CSS!!
 
-<p align="center">
-  ![Banner](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
-</p>
 > Criado com dedicação enquanto aprendo com o professor Elias. 👨‍🏫  
 > Um projeto simples, mas feito com muito orgulho! 🚀
 
@@ -36,14 +33,6 @@ Esse site foi feito para colocar em prática os meus conhecimentos iniciais de:
 - Como deixar o layout mais bonito e legível com `border-radius`, `padding`, `font-family`, etc.
 - Como separar conteúdo (HTML) de estilo (CSS).
 - A importância de usar `box-sizing: border-box;` para evitar dor de cabeça. 😂
-
----
-
-## 🚧 Próximos passos:
-
-- [ ] Adicionar interatividade com **JavaScript**
-- [ ] Criar um layout responsivo
-- [ ] Subir em um domínio gratuito com o GitHub Pages
 
 ---
 
