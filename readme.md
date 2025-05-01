@@ -22,8 +22,6 @@ Esse site foi feito para colocar em prática os meus conhecimentos iniciais de:
   <img src="img/code.gif" alt="code" width="500"/>
 </p>
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=Captura+de+tela+do+site)
-
 ---
 
 ## 🛠️ O que aprendi:
