@@ -1,6 +1,6 @@
 # 🌐 Meu Primeiro Site com HTML, CSS e um toque de JavaScript!
 
-![Banner](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+![Banner](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif width+"300")
 
 > Criado com dedicação enquanto aprendo com o professor Elias. 👨‍🏫  
 > Um projeto simples, mas feito com muito orgulho! 🚀
