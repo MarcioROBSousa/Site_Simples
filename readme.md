@@ -19,7 +19,7 @@ Esse site foi feito para colocar em prática os meus conhecimentos iniciais de:
 ## 📸 Preview
 
 <p align="center">
-  <img src="img/code.gif" alt="code" width="500"/>
+  <img src="img/code.gif" alt="code" width="300"/>
 </p>
 
 ---
