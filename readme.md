@@ -39,13 +39,6 @@ Esse site foi feito para colocar em prática os meus conhecimentos iniciais de:
 
 ---
 
-## ✨ Quer ver o código?
-
-Fique à vontade para explorar e dar sugestões!  
-📁 Basta abrir os arquivos `index.html` e `styles.css`.
-
----
-
 ## 🤝 Agradecimentos
 
 Agradeço ao **professor Elias** pelas aulas e dicas que me ajudaram a dar os primeiros passos no mundo do desenvolvimento web! 🙌
